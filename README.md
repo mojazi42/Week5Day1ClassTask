@@ -1,19 +1,19 @@
-# 📲 Firebase Notifications & Analytics App (Kotlin)
+# Firebase Notifications & Analytics App (Kotlin)
 
 This Android project demonstrates the integration of **Firebase Cloud Messaging (FCM)** and **Firebase Analytics** using **Kotlin + Jetpack Compose**. The app receives push notifications, logs key user interactions, and tracks custom analytics events in real-time.
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
-### ✅ Firebase Cloud Messaging (Notifications) - [5 Marks]
+### Firebase Cloud Messaging (Notifications) 
 - Integrated **Firebase Cloud Messaging** into the Android project.
 - Automatically **fetches and logs FCM token** on app startup.
 - Used **Firebase Console** to send test notifications.
 - Displays incoming notifications with **custom titles and body** using `NotificationCompat`.
 - Supports notification tap actions and token updates.
 
-### ✅ Firebase Analytics Integration - [5 Marks]
+### Firebase Analytics Integration 
 - Integrated **Firebase Analytics** with the project.
 - Tracked key events:
   - `app_open`: when the app launches
@@ -25,7 +25,7 @@ This Android project demonstrates the integration of **Firebase Cloud Messaging 
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. **Clone the repo**:
    ```bash
